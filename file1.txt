@@ -1,2 +1,1 @@
-first
-this is change by dev B
+This is same as we knwo thi[C[C[this line added by master branch
